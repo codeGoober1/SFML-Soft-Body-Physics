@@ -23,7 +23,7 @@ int main()
 
 	sf::Music music;
 	//music.openFromFile("Music Jam.mp3");
-  // MUSIC IS OPPTIONAL
+        // MUSIC IS OPTIONAL
 
 	SoftBody body(0.8f, 10000.f, 1.f);
 
